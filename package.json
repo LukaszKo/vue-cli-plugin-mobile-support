@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-mobile-support",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A vue-cli plugin to manage the responsiveness of your application via javascript",
   "main": "index.js",
   "keywords": [
