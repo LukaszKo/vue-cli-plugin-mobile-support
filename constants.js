@@ -1,5 +1,15 @@
 module.exports = {
-    OPERATORS: {
-        xs: ''
-    }
+    BREAKPOINTS_TYPES: [{
+            name: 'Bootstrap',
+            value: 'bootstrap'
+        },
+        {
+            name: 'Vuetify',
+            value: 'vuetify'
+        },
+        {
+            name: 'Vue Material',
+            value: 'material'
+        },
+    ]
 }
