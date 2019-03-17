@@ -1,0 +1,17 @@
+{
+  "name": "vue-cli-plugin-mobile-support",
+  "version": "0.5.1",
+  "description": "A vue-cli plugin to manage the responsiveness of your application via javascript",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "resize",
+    "mixins",
+    "responsive",
+    "mobile",
+    "devices",
+    "Vue cli"
+  ],
+  "author": "Lukasz Kochajewski <lukaszkochajewski@gmail.com>",
+  "license": "MIT"
+}
