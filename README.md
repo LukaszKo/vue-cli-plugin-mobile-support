@@ -37,3 +37,19 @@ vue ui
 ```
 vue add vue-cli-plugin-mobile-support
 ```
+
+## Usage
+
+Plugin will add a few files to you project:
+- WindowResize.js (Mixin)
+- breakpointsConfig.js (breakpoints configuration file)
+- TestComponent.vue (Example of using above mixin)
+
+Mixin give you a few defined computed properties based on different breakpoints values like: **xs, sm, md, lg and xl.**
+All of them returning **boolean** so that e.g you can easly use them to control showing/hidding some elements in the templates on differents
+screen sizes or do run some logic inside javascript code.
+
+**I Recommend you to use TestComponent (somewhere in the app) and just play with it to get known of how its works.**
+
+### Have fun!
+
