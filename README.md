@@ -5,6 +5,8 @@ You can use them directly in the template or javascript code.
 
 ## Getting started
 
+### Demo https://jsfiddle.net/zLe2gkpx/
+
 ### Instalation via Vue CLI 3 ui interface
 1.  Run UI interface.
 ```
