@@ -13,5 +13,9 @@
     "Vue cli"
   ],
   "author": "Lukasz Kochajewski <lukaszkochajewski@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LukaszKo/vue-cli-plugin-mobile-support.git"
+  },
   "license": "MIT"
 }
